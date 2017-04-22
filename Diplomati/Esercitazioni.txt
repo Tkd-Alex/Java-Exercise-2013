@@ -1,0 +1,20 @@
+Progettare una gerarchia di classi la cui classe base è "diplomato" con 2 classi derivate:
+-diplomato vecchio esame;    
+-diplamato nuovo esame;
+Per l'accesso ai concorsi è necessario avere un minimo di 42/60 per i vecchi diplomati, e 70/100 per i nuovi diplomati.
+
+36-60
+60-100
+
+Realizzare:
+-Diagramma UML
+-Implementazione delle classi
+-Gestione mediante menù delle seguenti funzionalità:
+* 1- Inserimento di un vecchio diplomato
+* 2- Inserimento di un nuovo diplomato
+* 3- Stampa elenco vecchi diplomati
+* 4- Stampa elenco nuovi diplomati	
+* 5- Stampa elenco dei diplomati che possono accedere ai concorsi indicando se appartengono ai nuovi o ai vecchi.
+
+Per lo sviluppo del programma Utilizzare un solo Array e l'operatore "instanceof" per individuare il tipo di oggetto istanziato.      
+
