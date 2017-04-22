@@ -1,0 +1,10 @@
+Classe Prodotto{
+- Nome Pro
+- Prezzo //
+}
+
+Caricare prodotti scelta utente
+Stampare totale del costo prodotto
+Se il prezzo totale super i 20€ c'è lo sconto del 5%
+50€ 10%
+100€ 30%
