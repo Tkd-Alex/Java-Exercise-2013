@@ -1,0 +1,36 @@
+Esercitazione n° 2 classe 4bi
+
+
+Scrivere una classe array che contenga i seguenti attributi:
+-lunghezza
+-array di interi 
+
+ e i seguenti metodi:
+ 
+-costruttore parametrico che permetta di impostare la dimensione 
+-aggiunta di un elemento in coda
+-Stampa 
+-ordinamento
+-ricerca di un elemento
+-metodo length() per ricavare il numero di elementi inseriti
+-cancellazione di un elemento con compattazione dell'array
+
+
+
+La seguente classe UsaArray utilizza la classe array effettuando caricamento,ordinamento stampa.
+
+class UsaArray
+{
+Array a=new Array(50);//dimensione massima 50 elementi
+
+//ESEMPIO DI AGGIUNTA DI UN ELEMENTO LETTO da tastiera
+int x=ConsoleStatic.leggiIntero();
+a.aggiungi(x);
+
+//ESEMPIO richiamo ordinamento
+a.ordina();
+
+
+}
+
+REALIZZARE UN MENù CHE PERMETTA DI EFFETTUARE TUTTE LE OPERAZIONI PREVISTE A SCELTA DELL'UTENTE  
